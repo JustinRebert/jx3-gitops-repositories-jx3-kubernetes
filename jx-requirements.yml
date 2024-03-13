@@ -20,7 +20,7 @@ spec:
   - key: staging
   - key: production
   ingress:
-    domain: ""
+    domain: "myjenkins-x.com"
     externalDNS: false
     namespaceSubDomain: -jx.
     tls:
